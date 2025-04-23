@@ -14,7 +14,5 @@ public enum Direction {
         this.rotation = rotation;
     }
 
-    public StructureRotation getRotation() {
-        return rotation;
-    }
+    public StructureRotation getRotation() { return rotation; }
 }
