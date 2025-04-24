@@ -36,7 +36,7 @@ public class TestMenuScreen extends AbstractScreen {
         int slot = e.getSlot();
 
         switch(slot) {
-            case 2:
+            case 1:
                 player.closeInventory();
                 StructureUtil.placeStructureAtCorner(player, "test2", Direction.NORTH);
                 break;
