@@ -1,6 +1,6 @@
 name: Module
 version: ${version}
-main: kr.murinn.module.Main
-api-version: '1.20'
+main: semicolon.murinn.module.Main
+api-version: '1.21'
 commands:
   module: { }
